@@ -1,4 +1,4 @@
-# docker-airflow-rickichann
+# docker-airflow
 
 ## Module 1: How to install Airflow on Docker | Setting Up Airflow with Docker-Compose in 3 Minutes
 - Download docker and install [Docker](https://www.docker.com/products/docker-desktop/)
